@@ -6,7 +6,7 @@
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [Acknowledgments](#acknowledgments)
-- [Author]
+- [Author](#author)
 
 ## Overview
 
@@ -25,7 +25,7 @@ The project is organized into the following sections:
    - The Jupyter Notebook [`part_2_mars_weather.ipynb`](part_2_mars_weather.ipynb) contains the code for automating browsing, scraping, visualizing and analyzing Mars weather data from an HTML table.
 
 3. **Requirements**
-   - The notebooks use libraries such as Splinter and BeautifulSoup, which can be installed using the provided [`requirements.txt`](requirements.txt).
+   - The notebooks use libraries such as Splinter and BeautifulSoup.
   
 ## Acknowledgnents
 
